@@ -1,0 +1,17 @@
+{
+  "name": "backend9182",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madhav polawar",
+  "license": "ISC",
+  "keywords": [
+    "asynchronous programming",
+    "fetch",
+    "api"
+  ],
+  "description": "This is package where we learn how node works "
+}
